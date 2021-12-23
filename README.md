@@ -1,6 +1,8 @@
 # HexBottle
 
 The all new bubbler bottle for you to make yourself, emblazoned with the HexCorp logo!
+![Alt text](hex 02.JPG?raw=true "Title")
+
 ## Features
 
 * Borosilicate glass bottle, easy to clean, harder to break
