@@ -1,7 +1,7 @@
 # HexBottle
 
 The all new bubbler bottle for you to make yourself, emblazoned with the HexCorp logo!
-![Alt text](hex 02.JPG?raw=true "Title")
+![Alt text](https://github.com/erotronik/HexBottle/blob/06125db0a387d37bc378d71c6e9aef7a71899aab/hex%2002.JPG?raw=true "Title")
 
 ## Features
 
